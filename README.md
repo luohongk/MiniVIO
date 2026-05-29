@@ -82,6 +82,7 @@
 构建大概需要 **10 分钟**：
 
 ```bash
+git clone https://github.com/luohongk/MiniVIO
 cd MiniVIO
 docker build -f docker/Dockerfile -t minivio:latest .
 ```
@@ -219,6 +220,7 @@ make -j4 && sudo make install
 ### 🏗️ 2. 编译 MiniVIO
 
 ```bash
+git clone https://github.com/luohongk/MiniVIO
 cd MiniVIO
 mkdir -p build && cd build
 
