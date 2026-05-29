@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <a href="README.md">中文</a> | <b>English</b>
+  <a href="README.md">English</a> | <a href="README_CN.md">Chinese</a> 
 </p>
 
 <p align="center">

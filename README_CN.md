@@ -12,6 +12,10 @@
 </h3>
 
 <p align="center">
+  <a href="README.md">英文</a> | <a href="README_CN.md">中文</a> 
+</p>
+
+<p align="center">
     <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono">
         <img src="https://img.shields.io/badge/Based_on-VINS--Fusion-red" />
     </a>
