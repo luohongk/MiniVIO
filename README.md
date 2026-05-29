@@ -141,6 +141,8 @@ make -j8
 
 ### ▶️ 4. 运行
 
+数据下载：[https://github.com/luohongk/MiniVIO/releases/download/example/V1_01_easy.zip]()
+
 修改 `config/euroc_config.yaml`，把数据集路径改成你自己的：
 
 ```yaml
@@ -165,7 +167,6 @@ cd build/bin
 > `~/data/slam_data/V2_02_medium/mav0/` 替换为你自己的 EuRoC 数据集路径。
 
 完整运行视频：[image/5月29日.mp4](image/5月29日.mp4)
-
 
 ---
 
@@ -265,7 +266,6 @@ evo_ape euroc euroc_mh05_groundtruth.csv pose_output.txt -a -p
 MiniVIO 基于 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 发布。
 
 代码可靠性仍在持续完善中。如有技术问题，欢迎联系：
-
 
 项目交流联系：罗宏昆 (Hongkun Luo) `luohongkun0715@gmail.com`
 
